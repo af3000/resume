@@ -108,3 +108,12 @@ label {
 legend {
   display: block;
 }
+ .about-list {
+            margin-top: 2rem;
+            list-style-type: disc !important;
+            padding-left: 20px !important;
+        }
+
+ .about-list li {
+ font-size: 1.6rem;
+ line-height: 1.7;
