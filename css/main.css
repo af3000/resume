@@ -663,5 +663,9 @@ h5 {
 
   80% {
     top: 0;
+  .about-list li {
+            font-size: 1.6rem;
+            margin-bottom: 1rem; /* Space between list items */
+            line-height: 1.7;
   }
 }
